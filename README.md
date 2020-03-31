@@ -7,86 +7,50 @@ A list of TV shows I have fully or partially watched so you can gauge where my t
 
 <hr>
 
-1. _Agents of S.H.I.E.L.D._
- 
-2. Altered Carbon
- 
-3. _Black Lightning_
- 
-4. _Black Mirror_
- 
-5. BoJack Horseman
- 
-6. _Breaking Bad_
- 
-7. Brooklyn Nine-Nine
- 
-8. Daredevil
- 
-9. Death Note
- 
-10. Disenchantment
- 
-11. Game of Thrones
- 
-12. _House of Cards_
- 
-13. _How to Get Away with Murder_
- 
-14. _Impractical Jokers_
- 
-15. Iron Fist
- 
-16. Jessica Jones
- 
-17. Luke Cage
- 
-18. _Mr. Robot_
- 
-19. Narcos
- 
-20. Narcos: Mexico
- 
-21. Rick and Morty
- 
-22. Riverdale
- 
-23. _Runaways_
- 
-24. Sacred Games
- 
-25. _Seinfeld_
- 
-26. Sex Education
- 
-27. _Shark Tank_
- 
-28. Sherlock
- 
-29. Silicon Valley
- 
-30. Stranger Things
- 
-31. _Suits_
- 
-32. The Big Bang Theory
- 
-33. The Blacklist
- 
-34. The Defenders
- 
-35. _The Flash_
- 
-36. _The Punisher_
- 
-37. _The Simpsons_
- 
-38. The Umbrella Acedemy
- 
-39. _Titans_
- 
-40. _Vikings_
- 
-41. Young Sheldon 
-
+1. 2 Broke Girls
+2. _Agents of S.H.I.E.L.D._
+3. Altered Carbon
+4. _Black Lightning_
+5. _Black Mirror_
+6. BoJack Horseman
+7. _Breaking Bad_
+8. Brooklyn Nine-Nine
+9. Daredevil
+10. Death Note
+11. Disenchantment
+12. Friends
+13. Game of Thrones
+14. Glee
+15. House
+16. _House of Cards_
+17. _How to Get Away with Murder_
+18. _Impractical Jokers_
+19. Iron Fist
+20. Jessica Jones
+21. Luke Cage
+22. _Mr. Robot_
+23. Narcos
+24. Narcos: Mexico
+25. Rick and Morty
+26. Riverdale
+27. _Runaways_
+28. Sacred Games
+29. _Seinfeld_
+30. Sex Education
+31. _Shark Tank_
+32. Sherlock
+33. Silicon Valley
+34. Stranger Things
+35. _Suits_
+36. The Big Bang Theory
+37. The Blacklist
+38. The Defenders
+39. _The Flash_
+40. _The Punisher_
+41. _The Simpsons_
+42. The Witcher
+43. The Umbrella Acedemy
+44. _Titans_
+45. _Vikings_
+46. Young Sheldon 
 <hr>
