@@ -20,9 +20,11 @@ A list of TV shows I have fully or partially watched so you can gauge where my t
 11. Disenchantment
 12. Friends
 13. Game of Thrones
+69. _Gilmore Girls_
 14. Glee
 15. House
 16. _House of Cards_
+69. How I Met Your Mother
 17. _How to Get Away with Murder_
 18. _Impractical Jokers_
 19. Iron Fist
@@ -31,6 +33,8 @@ A list of TV shows I have fully or partially watched so you can gauge where my t
 22. _Mr. Robot_
 23. Narcos
 24. Narcos: Mexico
+69. Naruto
+69. _Naruto Shippuden_
 25. Rick and Morty
 26. Riverdale
 27. _Runaways_
@@ -40,12 +44,14 @@ A list of TV shows I have fully or partially watched so you can gauge where my t
 31. _Shark Tank_
 32. Sherlock
 33. Silicon Valley
+69. _Star Wars: The Clone Wars_
 34. Stranger Things
-35. _Suits_
+35. Suits
 36. The Big Bang Theory
 37. The Blacklist
 38. The Defenders
 39. _The Flash_
+69. The Mandalorian
 40. _The Punisher_
 41. _The Simpsons_
 42. The Witcher
